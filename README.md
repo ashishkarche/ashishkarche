@@ -21,6 +21,6 @@ Here, you'll find some of my projects that showcase my work in **frontend, backe
 ---
 
 ## 📫 Connect with me
-- LinkedIn: [Your LinkedIn](link)  
-- Twitter: [Your Twitter](link)  
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn: [Ashish Karche](https://www.linkedin.com/in/ashish-karche-1a422b317/)  
+- Twitter: [@ashu_k99](https://x.com/ashu_k99)  
+- Email: [ashishkarche9@gmail.com](mailto:ashishkarche9@gmail.com)
